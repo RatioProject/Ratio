@@ -2,10 +2,10 @@
 
 <h2>Ratio</h2>
 
-Ticker: RATIO
-25% Proof of Stake interest
-1000% Proof of Stake Superblocks (1/1000 Ratio)
-60 seconds block time
-Minimum staking age: 7 days
-Maximum staking age: 2 years
+Ticker: RATIO<br/>
+25% Proof of Stake interest<br/>
+1000% Proof of Stake Superblocks (1/1000 Ratio)<br/>
+60 seconds block time<br/>
+Minimum staking age: 7 days<br/>
+Maximum staking age: 2 years<br/>
 Matures after 50 confirmations
