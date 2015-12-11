@@ -45,7 +45,7 @@ unsigned int nStakeMinAge =  7 * 24 * 60 * 60;
 unsigned int nStakeMaxAge = 2 * 365 * 24 * 60 * 60;
 unsigned int nModifierInterval = 10 * 60;
 
-int nCoinbaseMaturity = 120;
+int nCoinbaseMaturity = 30;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
